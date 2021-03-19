@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on kbougy</title>
+    <link>https://example.com/tags/resources/</link>
+    <description>Recent content in resources on kbougy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gardening and Permaculture Resources</title>
+      <link>https://example.com/posts/gardening-and-permaculture-resources/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/gardening-and-permaculture-resources/</guid>
+      <description>General 🔗 Gaia&amp;rsquo;s Garden - Toby Hemenway  The Permaculture City - Toby Hemenway  Perennial Vegetables - Eric Toensmeier  How to Grow More Vegetables - John Jeavons  Permaculture Plant Data   Tropics 🔗 The Tropical Permaculture Guide Book - Permatil Global  Tropical Self Sufficiency - Spencer   Dry Lands 🔗 Harvesting Rain Water - Brad Lancaster   </description>
+    </item>
+    
+  </channel>
+</rss>
