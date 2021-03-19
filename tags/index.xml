@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kbougy</title>
-    <link>kbougy.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on kbougy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="kbougy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>permaculture</title>
-      <link>kbougy.github.io/tags/permaculture/</link>
+      <link>/tags/permaculture/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>kbougy.github.io/tags/permaculture/</guid>
+      <guid>/tags/permaculture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resources</title>
-      <link>kbougy.github.io/tags/resources/</link>
+      <link>/tags/resources/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>kbougy.github.io/tags/resources/</guid>
+      <guid>/tags/resources/</guid>
       <description></description>
     </item>
     

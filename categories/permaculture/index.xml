@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>permaculture on kbougy</title>
-    <link>kbougy.github.io/categories/permaculture/</link>
+    <link>/categories/permaculture/</link>
     <description>Recent content in permaculture on kbougy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="kbougy.github.io/categories/permaculture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/permaculture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gardening and Permaculture Resources</title>
-      <link>kbougy.github.io/posts/gardening-and-permaculture-resources/</link>
+      <link>/posts/gardening-and-permaculture-resources/</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>kbougy.github.io/posts/gardening-and-permaculture-resources/</guid>
+      <guid>/posts/gardening-and-permaculture-resources/</guid>
       <description>This post contains all of the helpful gardening and Permaculture resources I&amp;rsquo;ve encountered.
 General 🔗 Gaia&amp;rsquo;s Garden - Toby Hemenway  The Permaculture City - Toby Hemenway  Perennial Vegetables - Eric Toensmeier  How to Grow More Vegetables - John Jeavons  Permaculture Plant Data   Tropics 🔗 The Tropical Permaculture Guide Book - Permatil Global  Tropical Self Sufficiency - Spencer   Dry Lands 🔗 Harvesting Rain Water - Brad Lancaster   </description>
     </item>
