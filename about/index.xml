@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on kbougy</title>
-    <link>https://example.com/about/</link>
+    <link>kbougy.github.io/about/</link>
     <description>Recent content in About on kbougy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="kbougy.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
